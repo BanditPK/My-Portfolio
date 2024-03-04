@@ -1,0 +1,9 @@
+.header {
+    color: rgb(18, 80, 107);
+}
+
+.footer {
+    text-align: center;
+    background-color: lightgray;
+    padding: 20px;
+}
